@@ -1,1 +1,2 @@
-print("Hello Copilot")
+from utils import greet
+print(greet("Filip"))
