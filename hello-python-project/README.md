@@ -27,3 +27,7 @@ This will output:
 ```
 Hello Copilot
 ```
+## How to run
+
+```bash
+python src/hello.py
